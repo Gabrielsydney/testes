@@ -1,4 +1,4 @@
-// Aqui está apenas um teste que eu estou fazendo
+// Aqui está apenas um teste
 
 #include <iostream>
 
