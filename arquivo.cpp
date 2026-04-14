@@ -25,7 +25,6 @@ int fat2(int n) {
 	return product;
 }
 
-
 int showFat() {
 	cout << fat(5) << endl;
 	return 0;
